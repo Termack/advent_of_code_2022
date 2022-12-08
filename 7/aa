@@ -1,0 +1,608 @@
+%{
+  :size => 42036703,
+  "bqc" => %{:size => 5693, "qqvdcclf" => 5693},
+  "mwmlf" => %{
+    :size => 4788029,
+    "cmfphpc" => %{
+      :size => 318363,
+      "tprth.gjn" => 235620,
+      "vrdrsj.fbl" => 82743
+    },
+    "lqqshq" => %{
+      :size => 1353815,
+      "crswqlvd.nsj" => 94188,
+      "dttthls" => %{:size => 140584, "nrwjb" => 109072, "qqvdcclf" => 31512},
+      "lbsfsspm" => 60078,
+      "lqp" => %{:size => 283406, "nrwjb" => 237917, "vrdrsj.ntw" => 45489},
+      "nrwjb" => 74624,
+      "tjhcqw.wrq" => 247709,
+      "tvrms" => 267693,
+      "zshrcgfn" => %{:size => 185533, "smfzmmhc.zzd" => 185533}
+    },
+    "mwmlf" => %{
+      :size => 536156,
+      "bbvhpmsj" => %{
+        :size => 416442,
+        "hrvlgmjb.wrv" => 232123,
+        "rlf" => 137190,
+        "tghvbj.mfr" => 21785,
+        "vrdrsj.swp" => 25344
+      },
+      "mwmlf" => %{
+        :size => 36125,
+        "wnn" => %{:size => 36125, "thd" => %{:size => 36125, "lgt" => 36125}}
+      },
+      "qqvdcclf" => 83589
+    },
+    "rlf" => %{
+      :size => 2009303,
+      "fps" => %{
+        :size => 502951,
+        "rqjt" => %{
+          :size => 361208,
+          "pcdtdblc.znj" => 175784,
+          "wmstvdt.lhn" => 185424
+        },
+        "wpqvmn" => %{:size => 141743, "ljslzhjl" => 141743}
+      },
+      "lggpfj.gnr" => 128272,
+      "lrdq.zgm" => 146745,
+      "mwmlf" => %{:size => 169015, "rlf" => 169015},
+      "mwmlf.wnp" => 266383,
+      "ncrlvggp" => %{
+        :size => 637263,
+        "fqtrpm.mqr" => 81450,
+        "jtbr" => 146399,
+        "nnqgqqj" => %{
+          :size => 121112,
+          "fvbhh" => %{:size => 121112, "zmn.fjz" => 121112}
+        },
+        "qqvdcclf" => 288302
+      },
+      "qpgmrj" => %{
+        :size => 158674,
+        "hrvlgmjb" => %{:size => 7858, "czvpvwz" => 7858},
+        "pbc" => %{:size => 150816, "tprth.gjn" => 150816}
+      }
+    },
+    "smfzmmhc" => %{
+      :size => 570392,
+      "jwvw" => %{:size => 47747, "nrwjb" => 47747},
+      "spbjrlv.spt" => 184385,
+      "trpdgl" => %{:size => 136682, "mwmlf" => 136682},
+      "zzhz" => 201578
+    }
+  },
+  "ngn" => %{
+    :size => 8131145,
+    "fqbph" => %{
+      :size => 5801803,
+      "bgtbmzj" => %{
+        :size => 4622661,
+        "gvqhtfg" => %{
+          :size => 350085,
+          "ntq" => %{
+            :size => 102930,
+            "wdtzhz" => %{
+              :size => 102930,
+              "tlqcbp" => %{:size => 102930, "smfzmmhc" => 102930}
+            }
+          },
+          "rlf" => %{:size => 185079, "tjhcqw.wrq" => 185079},
+          "rlf.nlc" => 62076
+        },
+        "jmvzv" => %{
+          :size => 3334036,
+          "hfmtzbhf" => %{
+            :size => 780357,
+            "ldt" => %{
+              :size => 644231,
+              "smfzmmhc" => %{:size => 86537, "tjhcqw.wrq" => 86537},
+              "wrhpzrfm" => %{
+                :size => 336894,
+                "smfzmmhc.shv" => 263122,
+                "tvrms" => 73772
+              },
+              "zbcfv" => %{
+                :size => 220800,
+                "vrdrsj" => %{:size => 220800, "zwdbh" => 220800}
+              }
+            },
+            "tvrms" => 136126
+          },
+          "jzbvmc" => 61556,
+          "scjpjp" => %{:size => 131588, "rlf" => 38282, "rlf.blz" => 93306},
+          "sgh" => 237487,
+          "smfzmmhc" => %{
+            :size => 2123048,
+            "gqms" => %{
+              :size => 1493676,
+              "frbs" => %{
+                :size => 825668,
+                "mpdll" => %{
+                  :size => 742767,
+                  "mgqd" => %{:size => 75558, "vrdrsj.zwc" => 75558},
+                  "mrljj" => %{
+                    :size => 667209,
+                    "qmsgj" => %{:size => 7382, "mwmlf" => 7382},
+                    "qqvdcclf" => 128171,
+                    "rlf.hgt" => 245942,
+                    "zzvbt" => %{:size => 285714, "zltjmn" => 285714}
+                  }
+                },
+                "zdmnm.wlc" => 82901
+              },
+              "rlf" => %{
+                :size => 668008,
+                "gttgwfgf.cpd" => 43731,
+                "hvtn" => %{
+                  :size => 116544,
+                  "zzsfgzc" => %{:size => 116544, "vrdrsj" => 116544}
+                },
+                "jdhb.ssj" => 112018,
+                "rlf.gvd" => 195239,
+                "spsstb" => 200476
+              }
+            },
+            "mwmlf" => %{
+              :size => 423164,
+              "hmpvn" => %{:size => 55892, "qqvdcclf" => 55892},
+              "shlnfcpz" => %{
+                :size => 367272,
+                "fnrhmbbm.rnp" => 144766,
+                "tjhcqw.wrq" => 2622,
+                "tprth.gjn" => 219884
+              }
+            },
+            "nrwjb" => 21587,
+            "zvq.lvr" => 184621
+          }
+        },
+        "ldpfs.qhr" => 194008,
+        "mtztr" => %{
+          :size => 179987,
+          "plngmzl" => %{:size => 153434, "dhjv.pfn" => 153434},
+          "qbwzhr" => %{:size => 26553, "mcb.djg" => 26553}
+        },
+        "nfqmvqcm.ftd" => 11099,
+        "szp" => %{
+          :size => 400067,
+          "qqvdcclf" => 37741,
+          "vrdrsj" => %{
+            :size => 362326,
+            "hznmsclb" => %{:size => 17957, "mwmlf.lsv" => 17957},
+            "mwmlf.vhs" => 13218,
+            "rggt" => 102602,
+            "rlnf.qrt" => 228549
+          }
+        },
+        "zrtsd.jwg" => 153379
+      },
+      "lzjf" => %{
+        :size => 342460,
+        "lfgh.jwg" => 40821,
+        "rplfgb" => %{:size => 301639, "zmrpm.pqn" => 301639}
+      },
+      "nrwjb" => 12361,
+      "pdsdttz" => %{:size => 294779, "tprth.gjn" => 294779},
+      "pfvtwr.pbf" => 150218,
+      "rlf" => %{:size => 37853, "qst.zgc" => 37853},
+      "sfhsszcq.tzv" => 158227,
+      "smfzmmhc.drh" => 183244
+    },
+    "lscdth.lbj" => 282363,
+    "mwmlf" => %{
+      :size => 1542191,
+      "dqvhgnj" => %{:size => 352373, "bph" => 214328, "tjhcqw.wrq" => 138045},
+      "fvjtnl" => %{
+        :size => 590411,
+        "sllvfsf" => 62568,
+        "tjhcqw.wrq" => 286839,
+        "zvqrg.bsg" => 241004
+      },
+      "jfsgp" => %{:size => 268024, "tprth.gjn" => 116677, "vtbt" => 151347},
+      "tjhcqw.wrq" => 230725,
+      "tvrms" => 2872,
+      "zszcsbl" => %{:size => 97786, "hrvlgmjb.wzz" => 97786}
+    },
+    "qbpmcqs" => 273281,
+    "qdffbp" => 7547,
+    "tprth.gjn" => 223960
+  },
+  "nrwjb" => 143562,
+  "qqvdcclf" => 78449,
+  "qrnm" => %{
+    :size => 516409,
+    "nrwjb" => 70534,
+    "qqvdcclf" => 292701,
+    "sjqvgh.nvt" => 153174
+  },
+  "smfzmmhc" => %{
+    :size => 15722729,
+    "gjrqmcjl" => %{
+      :size => 491956,
+      "gwcrpgc" => 283020,
+      "ltmzzz" => 36180,
+      "tpsr" => %{
+        :size => 172756,
+        "nscwcztf.wlh" => 51208,
+        "smfzmmhc" => 121548
+      }
+    },
+    "hrvlgmjb" => 63451,
+    "mwmlf" => %{:size => 263186, "mwmlf.fqd" => 263186},
+    "ncgjsjj" => %{
+      :size => 357642,
+      "nrwjb" => 204801,
+      "rdrmctwg.nqc" => 116293,
+      "tjhcqw.wrq" => 36548
+    },
+    "nrwjb" => 246754,
+    "pvnbj" => %{
+      :size => 8980615,
+      "cfmn" => %{
+        :size => 6346720,
+        "frn.ccd" => 300636,
+        "qmtc" => %{
+          :size => 448255,
+          "jwvjslwp.vsp" => 267669,
+          "tvrms" => 180586
+        },
+        "sfvd" => %{
+          :size => 5597829,
+          "cgzmwg.rgr" => 169064,
+          "hsz" => %{:size => 301584, "qqvdcclf" => 301584},
+          "qgmmc.sqq" => 270729,
+          "qpzbffd" => %{
+            :size => 578591,
+            "mwmlf.rvg" => 264911,
+            "rlf" => %{:size => 32357, "tvrms" => 32357},
+            "svhwhw.fdp" => 32109,
+            "tjhcqw.wrq" => 155713,
+            "vrdrsj" => %{:size => 93501, "nrwjb" => 93501}
+          },
+          "shcpdlm.nwz" => 92811,
+          "sstdzdf" => %{
+            :size => 806153,
+            "mgrvcbjc.rqb" => 241812,
+            "mwmlf" => %{:size => 133649, "wdfvctwp" => 133649},
+            "nvrssljz" => 273819,
+            "tvrms" => 156873
+          },
+          "thrzw" => %{:size => 67552, "smfzmmhc" => 67552},
+          "wscsr" => %{
+            :size => 3311345,
+            "dnbvw.zwd" => 132663,
+            "ffthd" => %{
+              :size => 945652,
+              "nrwjb" => 84952,
+              "rlf" => 192566,
+              "slbg" => %{
+                :size => 242512,
+                "nrwjb" => 203375,
+                "qqvdcclf" => 39137
+              },
+              "srzz" => 78478,
+              "tprth.gjn" => 250044,
+              "tvrms" => 97100
+            },
+            "hrvlgmjb.fwh" => 293463,
+            "lhjvfdh" => %{
+              :size => 242143,
+              "rtphln.pgc" => 1747,
+              "tjhcqw.wrq" => 163505,
+              "tprth.gjn" => 76891
+            },
+            "nrwjb" => 194357,
+            "smj" => %{
+              :size => 165156,
+              "hhtdhzgn" => 6853,
+              "pmsflvrn.hnh" => 158303
+            },
+            "tprth.gjn" => 56668,
+            "tvrms" => 303099,
+            "vrdrsj" => %{
+              :size => 978144,
+              "jdlc" => %{
+                :size => 304576,
+                "hqggp.lrq" => 12435,
+                "ntbcht.zbw" => 292141
+              },
+              "vrdrsj" => 263568,
+              "vvtl" => %{
+                :size => 410000,
+                "qqvdcclf" => 118913,
+                "tjhcqw.wrq" => 291087
+              }
+            }
+          }
+        }
+      },
+      "cnhmcjp" => %{:size => 263233, "tjhcqw.wrq" => 263233},
+      "ctllrm" => 231615,
+      "czmw" => %{
+        :size => 666113,
+        "gdsgw" => %{
+          :size => 469511,
+          "dbwsmwnb.svt" => 298839,
+          "tprth.gjn" => 170672
+        },
+        "gfd" => %{:size => 193212, "tld" => 193212},
+        "mwmlf.zss" => 3390
+      },
+      "drfzgwtz" => %{:size => 257122, "tprth.gjn" => 257122},
+      "jsm" => 135330,
+      "jtjzwjh" => %{
+        :size => 417785,
+        "jhpp" => %{:size => 40279, "jgstzhw.cbq" => 40279},
+        "lnrwrpjj" => 274740,
+        "ptzmfsmr.pwc" => 35217,
+        "qpdj.pfc" => 67549
+      },
+      "nfg" => %{:size => 126237, "mqfl.flt" => 126237},
+      "qqvdcclf" => 279734,
+      "tvrms" => 220762,
+      "vrdrsj.jqj" => 35964
+    },
+    "sjqwr" => %{
+      :size => 2141629,
+      "bngqncqn" => 53423,
+      "lblv" => %{
+        :size => 1053143,
+        "bptgd" => %{:size => 19667, "mwmlf" => 19667},
+        "jjvcgb.nwc" => 215281,
+        "rlf" => %{
+          :size => 518191,
+          "mwmlf" => %{:size => 254206, "smfzmmhc" => 254206},
+          "rbhz.plr" => 263985
+        },
+        "tvrms" => 300004
+      },
+      "nrwjb" => 178935,
+      "tprth.gjn" => 188826,
+      "vrdrsj" => %{
+        :size => 380853,
+        "vrdrsj" => %{
+          :size => 380853,
+          "hrvlgmjb.bbf" => 250310,
+          "mwmlf.lbq" => 130543
+        }
+      },
+      "vrdrsj.svn" => 286449
+    },
+    "vrdrsj" => %{
+      :size => 711041,
+      "mwwr" => %{
+        :size => 411166,
+        "lhz" => %{
+          :size => 411166,
+          "ssz" => %{:size => 107472, "hcnsgjhj" => 107472},
+          "vrdrsj" => %{:size => 303694, "rlf" => 303694}
+        }
+      },
+      "rlf" => %{:size => 299875, "nrwjb" => 299875}
+    },
+    "vwfnglr" => %{
+      :size => 2466455,
+      "mtvgvvcr" => %{
+        :size => 2050735,
+        "bvlv.npm" => 218927,
+        "hrf.czg" => 64283,
+        "mnmqqqgh" => %{:size => 231583, "hrvlgmjb.mtq" => 231583},
+        "qtb.fnb" => 103691,
+        "smfzmmhc" => %{
+          :size => 1179539,
+          "dzjfd" => %{
+            :size => 559344,
+            "smfzmmhc" => %{
+              :size => 322228,
+              "qqvdcclf" => 230613,
+              "smfzmmhc" => 91615
+            },
+            "zzgr" => 237116
+          },
+          "jjslqwn" => %{:size => 98708, "mwmlf.qtq" => 98708},
+          "nrwjb" => 264128,
+          "tvrms" => 257359
+        },
+        "zjlgc.sfg" => 252712
+      },
+      "mzhgbj.zvv" => 114118,
+      "tprth.gjn" => 273343,
+      "wgrp" => 28259
+    }
+  },
+  "tvrms" => 116085,
+  "vrdrsj" => %{
+    :size => 388898,
+    "bfgbvlcd" => %{:size => 276134, "vrdrsj" => 276134},
+    "fgh.djg" => 131293,
+    "lcwjtdf.sbl" => 125876,
+    "pnds" => %{
+      "bffz" => %{
+        :size => 673866,
+        "dndbj.gww" => 194315,
+        "lspnmhml.fdb" => 115061,
+        "tjhcqw.wrq" => 239758,
+        "wjcbcvfd" => 124732
+      },
+      "jwcjpt" => %{
+        :size => 10038718,
+        "dcmcgc" => %{
+          :size => 8020123,
+          "fhdvgvtz" => %{
+            :size => 3888999,
+            "lcl" => 33684,
+            "lrsjg" => %{
+              :size => 3379135,
+              "jgfpvdc" => %{
+                :size => 2533835,
+                "chlgpdsp.hrv" => 265563,
+                "dsc" => %{
+                  :size => 548410,
+                  "rtt.qps" => 284520,
+                  "smfzmmhc" => 263890
+                },
+                "gvrg" => %{
+                  :size => 336955,
+                  "hzclphlb" => %{:size => 295429, "mcdjsms.zss" => 295429},
+                  "vcnlmdp" => %{
+                    :size => 41526,
+                    "wrlhqh" => %{:size => 41526, "tmf.ctw" => 41526}
+                  }
+                },
+                "mwmlf" => %{
+                  :size => 233454,
+                  "cwsrt" => %{
+                    :size => 17063,
+                    "ztmtjwj" => %{:size => 17063, "svdm" => 17063}
+                  },
+                  "grqng" => %{:size => 216391, "tvrms" => 216391}
+                },
+                "qrqvl" => %{
+                  :size => 283079,
+                  "hrvlgmjb" => 1835,
+                  "mwmlf.sng" => 43155,
+                  "ngjg.zmc" => 238089
+                },
+                "rlf" => 100762,
+                "sjvgwmdg.qhg" => 300872,
+                "tzqmh" => 164004,
+                "zhgmdcl.bfq" => 300736
+              },
+              "mwmlf.vdw" => 84338,
+              "nrwjb" => 147349,
+              "sblp" => %{:size => 178768, "bgfnqf" => 178768},
+              "vrdrsj" => %{
+                :size => 434845,
+                "qrrc.bbc" => 255854,
+                "smfzmmhc" => 178991
+              }
+            },
+            "npvgs.qdw" => 203352,
+            "tvrms" => 6985,
+            "wmnrjw.chn" => 102991,
+            "wrcjmll.rlb" => 162852
+          },
+          "hrvlgmjb" => %{
+            :size => 1269378,
+            "fjnp" => %{
+              :size => 120100,
+              "qqvdcclf" => 19740,
+              "smfzmmhc" => %{
+                :size => 100360,
+                "nnbc" => %{:size => 100360, "mwmlf" => 100360}
+              }
+            },
+            "hrvlgmjb" => 70585,
+            "qsrgzrdf" => %{:size => 279143, "fgthp.qmg" => 279143},
+            "rmjzzgrs" => 43606,
+            "vds" => %{
+              :size => 626207,
+              "gnclhrw.mwt" => 247595,
+              "pcdnbq.zbs" => 303125,
+              "tprth.gjn" => 38092,
+              "vrdrsj" => %{
+                :size => 37395,
+                "tnjg" => %{:size => 37395, "brcbr" => 37395}
+              }
+            },
+            "vrdrsj" => %{:size => 94639, "tjhcqw.wrq" => 94639},
+            "wthtcg.wgd" => 35098
+          },
+          "rlf" => %{
+            :size => 2108829,
+            "btqjc" => %{
+              :size => 154948,
+              "nwszgpm.qqr" => 31933,
+              "rjqvhccg" => 106249,
+              "vgzqz" => 16766
+            },
+            "dnplntn.mwr" => 108141,
+            "lmfsgd" => 31100,
+            "lpbdq.vdp" => 263849,
+            "smfzmmhc.wsr" => 109813,
+            "vrdrsj" => %{
+              :size => 1440978,
+              "bfv" => %{
+                :size => 280813,
+                "tdgd.ppw" => 48210,
+                "tjhcqw.wrq" => 232603
+              },
+              "jtnqr" => %{
+                :size => 919915,
+                "bct" => %{
+                  :size => 174312,
+                  "fwfzsc.pls" => 131860,
+                  "thp" => 42452
+                },
+                "grstm.ltj" => 202702,
+                "mwmlf" => %{:size => 284648, "vdjh.dct" => 284648},
+                "tvrms" => 258253
+              },
+              "mwmlf" => 19593,
+              "rggqjp.pnt" => 220657
+            }
+          },
+          "smfzmmhc" => %{
+            :size => 752917,
+            "fvtlvtlq" => %{
+              :size => 543992,
+              "ctwllbmc" => 237419,
+              "qqvdcclf" => 36570,
+              "rlf" => %{:size => 177830, "dtg.bvl" => 89469, "mqrr" => 88361},
+              "smfzmmhc" => 92173
+            },
+            "jdbdb" => 108335,
+            "vrdrsj" => %{
+              :size => 100590,
+              "fftpd" => 47472,
+              "qqvdcclf" => 53118
+            }
+          }
+        },
+        "llt" => %{:size => 98255, "hnvqtbcn" => 98255},
+        "rfh" => %{
+          :size => 1308729,
+          "hgwh.tnl" => 29828,
+          "rchll" => %{:size => 240042, "rdj.wrv" => 240042},
+          "smfzmmhc" => %{
+            :size => 1038859,
+            "clnbddrh.lbq" => 45192,
+            "ndzjnttr" => 105827,
+            "nmnr.lct" => 140925,
+            "rlf" => %{
+              :size => 191603,
+              "mnnr.smj" => 115973,
+              "zld.hzv" => 75630
+            },
+            "tprth.gjn" => 238998,
+            "vrdrsj" => %{
+              :size => 316314,
+              "phmvhpvb.fwh" => 302512,
+              "tjrpwhc" => %{:size => 13802, "hrvlgmjb" => 13802}
+            }
+          }
+        },
+        "scljqqq" => %{
+          :size => 484069,
+          "hrvlgmjb.nhn" => 228515,
+          "mwmlf" => 246019,
+          "mwmlf.nvm" => 9535
+        },
+        "tvrms" => 127542
+      },
+      "pvnbz" => %{
+        :size => 278221,
+        "hrvlgmjb" => %{
+          :size => 270197,
+          "vggpr" => %{:size => 270197, "cpzj" => 270197}
+        },
+        "mwmlf" => 279877,
+        "zdqprndl" => %{:size => 197398, "tprth.gjn" => 197398},
+        "zwwtflb" => 278221
+      }
+    },
+    "tvrms" => 263022
+  }
+}
