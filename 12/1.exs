@@ -66,7 +66,7 @@ defmodule Bfs do
   def find_path(matrix, target, queue, visited, previous) do
     case :queue.out(queue) do
       {{:value, current}, queue} ->
-        # draw(matrix, target, visited, previous, current, get_valid_neighbors(matrix, current))
+        draw(matrix, target, visited, previous, current, get_valid_neighbors(matrix, current))
 
         if current != target do
           {visited, queue, previous} =

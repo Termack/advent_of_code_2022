@@ -8,13 +8,13 @@ defmodule Bfs do
           false
 
         value ->
-          value <= current + 1
+          value >= current - 1
       end
     end)
   end
 
-  def bfs(matrix, start, target) do
-    find_path(matrix, target, :queue.in(start, :queue.new()), %{start => :visited}, %{})
+  def bfs(matrix, start) do
+    find_path(matrix, :queue.in(start, :queue.new()), %{start => :visited}, %{})
   end
 
   def draw(matrix, target, visited, previous, current, neighbors) do
@@ -63,12 +63,12 @@ defmodule Bfs do
     Process.sleep(20)
   end
 
-  def find_path(matrix, target, queue, visited, previous) do
+  def find_path(matrix, queue, visited, previous) do
     case :queue.out(queue) do
       {{:value, current}, queue} ->
         # draw(matrix, target, visited, previous, current, get_valid_neighbors(matrix, current))
 
-        if current != target do
+        if M.matrix_get(matrix,current) != ?a do
           {visited, queue, previous} =
             for neighbor <- get_valid_neighbors(matrix, current),
                 reduce: {visited, queue, previous} do
@@ -85,11 +85,13 @@ defmodule Bfs do
                 end
             end
 
-          find_path(matrix, target, queue, visited, previous)
+          find_path(matrix, queue, visited, previous)
         else
-          previous
+          {current, previous}
         end
-      {:empty,_} -> previous
+
+      {:empty, _} ->
+        {:none, previous}
     end
   end
 end
@@ -129,12 +131,18 @@ defmodule M do
   end
 
   def get_path(matrix, previous, target, result) do
-    case Map.fetch(previous,target) do
-      :error -> result
+    case Map.fetch(previous, target) do
+      :error ->
+        result
+
       {:ok, value} ->
-        case matrix_get(matrix,value) do
-          ?a -> result
-          _ -> get_path(matrix, previous, value, [target|result])
+        result = Map.put(result, target, value)
+        case matrix_get(matrix, value) do
+          ?a ->
+            result
+
+          _ ->
+            get_path(matrix, previous, value, result)
         end
     end
   end
@@ -149,8 +157,12 @@ matrix =
   |> Enum.with_index()
   |> Map.new(fn {k, v} -> {v, k} end)
 
-{matrix, start, target} = M.find_start_and_end(matrix)
+{matrix, _, target} = M.find_start_and_end(matrix)
 
-previous = Bfs.bfs(matrix, start, target)
+{target,previous} = Bfs.bfs(matrix, target)
 
-IO.inspect(length(M.get_path(matrix, previous, target, [])))
+path = M.get_path(matrix, previous, target, %{})
+
+Bfs.draw(matrix, target, %{}, path, {0,0}, [])
+
+IO.inspect(map_size(path))
